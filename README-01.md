@@ -9,6 +9,7 @@ This is a Python program that implements the Ceasar cipher encryption and decryp
 `python ceasar_cipher.py` 
 
 > Enter the message that you want to encrypt or decrypt
+> 
 > Enter the key that you want to use for encryption or decryption
 
 ### Examples
